@@ -18,6 +18,6 @@ In order to know whether the analysis filters out too many reviews from vine pro
 
 ## Summary:
 From the results we can know that, digital video games users haven't paid for Amazon vine program, so we cannot compare if there's bias for reviews. I think this study can be furthered by discussing:
-- why there's no vine member for this kind of product.
-- comparing digital video game reviews with video game reviews, to which products get more 5 star reviews, and which prodcuts get more vine members.
+- Ask the program manager why there's no vine member for this kind of product.
+- compare digital video game reviews with video game reviews, to see which products get more reviews, 5 star reviews, and which prodcuts get more vine members.
 
